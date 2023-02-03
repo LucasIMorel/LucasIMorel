@@ -1,7 +1,7 @@
 ### Olá! Eu Sou o Lucas I Morel 👋
 
-- 🔭 Hoje trabalho com Front-End e um pouco de Beck-End
-- 🌱 Estudando Engenharia de software
+- 🔭 Hoje trabalho como FullStack
+- 🌱 Estudando Analise de Desenvolvimento de Sistema
 - 😄 Pronouns: ele/dele
 
 <div>

@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho como FullStack
 - 🌱 Estudando Analise de Desenvolvimento de Sistema
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/LucasIMorel">
